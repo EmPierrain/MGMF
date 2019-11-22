@@ -1,4 +1,4 @@
-[Retour](../..)
+[Retour](..)
 
 # ③① Ecuyer
 S'il est Dieu ou héro ou qu'uncun héros n'existe, il ne sert à rien.
