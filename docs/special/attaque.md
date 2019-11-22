@@ -25,6 +25,7 @@ Si la prédiction est correcte, l'oracle distribue la prédiction.
 # Le héros
 ## LE HEROS S'INTERPOSE
 *On ne peux pas devenir héro si on est dieu.*
+
 Le héros s'interpose uniquement si la catin perd le combat ou si cette dernière n'existe pas.
 
 Le héros lance doit lancer un dé et selon le résultat de ce dernier, l'issue de l'attaque sera la suivante:
