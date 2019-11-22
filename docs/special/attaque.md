@@ -6,6 +6,7 @@ Ce tour se déclence lors que la somme des dés normaux est égal à 7. Lors d'u
 L'attaque se déroule en faisant intervenir les rôles suivants (dans l'ordre)
 
 # Dieu
+*Si un dieu existe déjà lors de l'attribution du rôle alors un lancé de dé doit être effectué. Celui qui fait le plus grand tirage est le nouveau dieu. **Cas particulier:** Si l'attribution du rôle intervient après un ⑥⑥ on devient dieu sans lancer les dés.*
 En devenant dieu on perd les rôles de Héro, Catin et Ecuyer.
 Si dieu réussi son attaque ou si personne ne s'interpose, alors il distribuera les gorgées en jeu.
 
@@ -24,7 +25,7 @@ Si la prédiction est correcte, l'oracle distribue la prédiction.
 
 # Le héros
 ## LE HEROS S'INTERPOSE
-*On ne peux pas devenir héro si on est dieu.*
+*On ne peux pas devenir héro si on est dieu ou si un héro existe déjà.*
 
 Le héros s'interpose uniquement si la catin perd le combat ou si cette dernière n'existe pas.
 
