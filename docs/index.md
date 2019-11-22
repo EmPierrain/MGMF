@@ -1,16 +1,17 @@
 [Voir sous forme de tableau](table)
 
 # Rôles
-- [①①① ou ②②② ou ③③③ Héro](special/attaque) (Cf. attaque dieu)
-- [④④④ ou ⑤⑤⑤ ou ⑥⑥⑥ Dieu](special/attaque) (Cf. attaque dieu)
-- [②① Oracle](special/attaque) (Cf. attaque dieu)
+- [①①① / ②②② / ③③③ Héro](special/attaque) *
+- [④④④ / ⑤⑤⑤ / ⑥⑥⑥ Dieu](special/attaque) *
+- [②① Oracle](special/attaque) *
 - [③① Ecuyer](roles/ecuyer)
 - [③② Prisonnier](roles/prisonnier)
-- [④① Catin](special/attaque) (Cf. attaque dieu)
+- [④① Catin](special/attaque) *
 - [⑤③ Aubergiste](roles/aubergiste)
 - [⑤④ Princesse](roles/princesse)
 - [⑥⑤ Dragon](roles/dragon)
 
+*(Cf. attaque dieu)
 # Super rôles
 **Remplace le rôle normal**
 - [①①① Clochard](superroles/clochard) (puis: héro)
