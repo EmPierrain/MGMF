@@ -3,7 +3,7 @@
 # Dieu attaque le village
 Ce tour se déclence lors que la somme des dés normaux est égal à 7. Lors d'une attaque on met en jeu la valeur du dé spécial.
 
-L'attaque se déroule en faisant intervenir les rôles suivant (dans l'ordre)
+L'attaque se déroule en faisant intervenir les rôles suivants (dans l'ordre)
 
 # Dieu
 En devenant dieu on perd les rôles de Héro, Catin et Ecuyer.
