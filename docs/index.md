@@ -1,10 +1,12 @@
 [Voir sous forme de tableau](table)
 
-A chaque tour, le joueur lance deux dés "normaux" et un spécial". Les dés normaux determinent l'action à réaliser ou le rôle attribué.
+A chaque tour, le joueur lance deux dés "normaux" et un "spécial". Les dés normaux determinent l'action à réaliser ou le rôle attribué.
 
 Si les 3 dés ont la même valeurs, se référer à "Super rôles".
 
 Si aucun rôle n'est attribué, se référer à "Tour spéciaux"
+
+Si un dé vaut ⑥ les effets du tour spécial **ET** de l'attribution du rôle s'appliquent.
 
 # Rôles
 - [①① / ②② / ③③ Héro](special/attaque) *
@@ -30,3 +32,4 @@ Si aucun rôle n'est attribué, se référer à "Tour spéciaux"
 # Tour spéciaux:
 - [★★ Somme = 7: Dieu attaque le village](special/attaque)
 - ④② & ⑤①: Tout le monde boit la valeur du dé spécial
+- ⑥① à ⑥⑥: On distribue la valeur du dé normal le plus faible.
