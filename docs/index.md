@@ -14,13 +14,13 @@
 *(Cf. attaque dieu)
 # Super rôles
 **Remplace le rôle normal**
-- [①①① Clochard](superroles/clochard) (puis: héro)
-- [②②② Devin](superroles/devin) (puis: oracle)
-- [③③③ Apprenti](superroles/apprenti) (puis écuyer)
-- [④④④ Gourgandine](superroles/gourgandine) (puis: catin si non dieu)
-- [⑤⑤⑤ Impératrice](superroles/imperatrice) (puis: princesse)
-- [⑥⑥⑥ Démon](superroles/demon) (puis: dieu)
+- [①①① Clochard](superroles/clochard)
+- [②②② Devin](superroles/devin)
+- [③③③ Apprenti](superroles/apprenti)
+- [④④④ Gourgandine](superroles/gourgandine)
+- [⑤⑤⑤ Impératrice](superroles/imperatrice)
+- [⑥⑥⑥ Démon](superroles/demon)
 
 # Tour spéciaux:
 - [★★ Somme = 7: Dieu attaque le village](special/attaque)
-- ④② & ⑤①: Tout le monde prend la valeur du dé spécial
+- ④② & ⑤①: Tout le monde boit la valeur du dé spécial
