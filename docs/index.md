@@ -1,4 +1,5 @@
 [Voir sous forme de tableau](table)
+
 A chaque tour, le joueur lance deux dés "normaux" et un spécial". Les dés normaux determinent l'action à réaliser ou le rôle attribué.
 
 Si les 3 dés ont la même valeurs, se référer à "Super rôles".
