@@ -6,7 +6,7 @@ Si les 3 dés ont la même valeurs, se référer à "Super rôles".
 
 Si aucun rôle n'est attribué, se référer à "Tour spéciaux"
 
-Si un dé vaut ⑥ les effets du tour spécial **ET** de l'attribution du rôle s'appliquent.
+Si un dé normal vaut ⑥ les effets du tour spécial **ET** de l'attribution du rôle s'appliquent.
 
 # Rôles
 - [①① / ②② / ③③ Héro](special/attaque) *
