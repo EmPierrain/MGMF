@@ -2,7 +2,7 @@
 
 A chaque tour, le joueur lance deux dés "normaux" et un "spécial". Les dés normaux determinent l'action à réaliser ou le rôle attribué.
 
-Si les 3 dés ont la même valeurs, se référer à "Super rôles".
+Si les 3 dés ont la même valeur, se référer à "Super rôles". Dans ce cas, l'attribution du rôle "Héros" ou "Dieu" n'a pas lieu.
 
 Si aucun rôle n'est attribué, se référer à "Tour spéciaux"
 
