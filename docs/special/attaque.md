@@ -18,15 +18,15 @@ Si une catin existe, celle-ci doit s'interposer à dieu en lançant un dé.
 - ②	③	④	⑤	⑥ La catin perd le combat et boit le nombre de gorgées du dé. Si il n'y a pas de héros, dieu réussi l'attaque.
 
 # L'oracle
-L'oracle doit prédire le résultat du lancé de dé du héro **avant** qu'il s'interpose (cf section suivante).
+L'oracle doit prédire le résultat du lancé de dé du héros **avant** qu'il s'interpose (cf section suivante).
 
-A la suite du lancer de dé du héro, on dévie la valeur vers la prédiction. Par exemple, l'oracle prédit ④ et le héro fait un ②, le résultat retenu sera ③.
+A la suite du lancer de dé du héro, on dévie la valeur vers la prédiction. Par exemple, l'oracle prédit ④ et le héros fait un ②, le résultat retenu sera ③.
 
 Si la prédiction est correcte, l'oracle distribue la prédiction.
 
 # Le héros
 ## LE HEROS S'INTERPOSE
-*On ne peux pas devenir héro si on est dieu ou si un héro existe déjà.*
+*On ne peux pas devenir héros si on est dieu ou si un héros existe déjà.*
 
 Le héros s'interpose uniquement si la catin perd le combat ou si cette dernière n'existe pas.
 
