@@ -1,5 +1,5 @@
   
-[Retour](../..)
+[Retour](..)
 
 # ③② Prisonnier
 S'il y a déjà un prisonnier, il ne sert à rien.
