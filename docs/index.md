@@ -2,14 +2,16 @@
  
 X | ①    | ②      | ③           | ④     | ⑤     | ⑥ 
 --|---|---|---|---|---|---
-① | Héro | Oracle | Ecuyer      | Catin | ★          | ATTAQUE + ① 
-② | X    | Héro   | Prisonnier  | ★    | ATTAQUE     | ② 
-③ | X    | X      | Héro        | ATTAQUE | Aubergiste | ③ 
+① | Héro | Oracle | Ecuyer      | Catin | ★          | [★★](special/attaque) + ① 
+② | X    | Héro   | Prisonnier  | ★    | [★★](special/attaque)     | ② 
+③ | X    | X      | Héro        | [★★](special/attaque) | Aubergiste | ③ 
 ④ | X    | X      | X           | Dieu  | Princesse   | ④ 
 ⑤ | X    | X      | X           | X     | Dieu        | Dragon + ⑤ 
 ⑥ | X    | X      | X           | X     | X           | Dieu + ⑥ 
 
 # Rôles
+- [①①① ou ②②② ou ③③③ Héro](special/attaque) (Cf. attaque dieu)
+- [④④④ ou ⑤⑤⑤ ou ⑥⑥⑥ Dieu](special/attaque) (Cf. attaque dieu)
 - [②① Oracle](special/attaque) (Cf. attaque dieu)
 - [③① Ecuyer](roles/ecuyer)
 - [③② Prisonnier](roles/prisonnier)
@@ -28,4 +30,5 @@ X | ①    | ②      | ③           | ④     | ⑤     | ⑥
 - [⑥⑥⑥ Démon](superroles/demon) (puis: dieu)
 
 # Tour spéciaux:
-- [Dieux attaque le village](special/attaque)
+- [★★ Somme = 7: Dieu attaque le village](special/attaque)
+- ④② & ⑤①: Tout le monde prend la valeur du dé spécial
