@@ -8,7 +8,7 @@ L'application est à ce jour qu'un "wiki" référençant les différents lancés
 
 Pour y accéder, aucune installation est nécessaire. Rendez-vous sur [MGMF](https://empierrain.github.io/MGMF/) disponible aussi sur téléphone.
 
-Ce site est généré avec [Jekyll](https://fr.wikipedia.org/wiki/Jekyll_(logiciel), un générateur de site statique.
+Ce site est généré avec [Jekyll](https://fr.wikipedia.org/wiki/Jekyll_(logiciel)), un générateur de site statique.
 
 ## Auteurs
 
