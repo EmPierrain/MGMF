@@ -30,6 +30,7 @@ Si un dé normal vaut ⑥ les effets du tour spécial **ET** de l'attribution du
 - [⑥⑥⑥ Démon](superroles/demon)
 
 # Tours spéciaux:
-- [★★ Somme = 7: Dieu attaque le village](special/attaque)
-- ④② & ⑤①: Tout le monde boit la valeur du dé spécial
-- ⑥① à ⑥⑥: On distribue la valeur du dé normal le plus faible.
+- [★★ Somme = 7: Dieu attaque le village](special/attaque).
+- ④② & ⑤①: Fête au village: Tout le monde boit la valeur du dé spécial.
+- ⑥① à ⑥⑥: Le joueur distribue la valeur du dé normal le plus faible.
+- ⑥③: Tout les Auvergnats boivent.
