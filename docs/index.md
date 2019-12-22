@@ -11,15 +11,14 @@ Si un dé normal vaut ⑥ les effets du tour spécial **ET** de l'attribution du
 # Rôles
 - [①① / ②② / ③③ Héro](roles/hero)
 - [④④ / ⑤⑤ / ⑥⑥ Dieu](roles/dieu)
-- [②① Oracle](special/attaque) *
+- [②① Oracle](roles/oracle)
 - [③① Ecuyer](roles/ecuyer)
 - [③② Prisonnier](roles/prisonnier)
-- [④① Catin](special/attaque) *
+- [④① Catin](roles/catin)
 - [⑤③ Aubergiste](roles/aubergiste)
 - [⑤④ Princesse](roles/princesse)
 - [⑥⑤ Dragon](roles/dragon)
 
-*(Cf. attaque dieu)
 # Super rôles
 **Remplace le rôle normal**
 - [①①① Clochard](superroles/clochard)

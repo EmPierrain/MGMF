@@ -1,14 +1,14 @@
 [Retour](..)
 
 # Dieu attaque le village
-Ce tour se déclence lors que la somme des dés normaux est égal à 7. Lors d'une attaque on met en jeu la valeur du dé spécial.
+Ce tour se déclenche lors que la somme des dés normaux est égal à 7. Lors d'une attaque on met en jeu la valeur du dé spécial.
 
 L'attaque se déroule en faisant intervenir les rôles suivants (dans l'ordre)
 
 # Dieu
 *Si un dieu existe déjà lors de l'attribution du rôle alors un lancé de dé doit être effectué par dieu et celui qui souhaite prendre sa place. Celui qui fait le plus grand tirage est le nouveau dieu. **Cas particulier:** Si l'attribution du rôle intervient après un ⑥⑥ on devient dieu sans lancer les dés.*
 
-En devenant dieu on perd les rôles de Héro, Catin et Ecuyer.
+En devenant dieu on perd les rôles de Héro, Catin et Écuyer.
 Si dieu réussi son attaque ou si personne ne s'interpose, alors il distribuera les gorgées en jeu.
 
 # La catin
@@ -25,7 +25,7 @@ A la suite du lancer de dé du héro, on dévie la valeur vers la prédiction. P
 Si la prédiction est correcte, l'oracle distribue la prédiction.
 
 # Le héros
-## LE HEROS S'INTERPOSE
+## LE HÉROS S'INTERPOSE
 *On ne peux pas devenir héros si on est dieu ou si un héros existe déjà.*
 
 Le héros s'interpose uniquement si la catin perd le combat ou si cette dernière n'existe pas.
